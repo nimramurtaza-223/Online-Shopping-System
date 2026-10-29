@@ -1,3 +1,4 @@
+// Header and implementation for Circular Product List class and node structure
 #ifndef CIRCULAR_PRODUCT_LIST_H
 #define CIRCULAR_PRODUCT_LIST_H
 
