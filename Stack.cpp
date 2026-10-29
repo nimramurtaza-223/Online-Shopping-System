@@ -1,3 +1,4 @@
+// Stack data structure implementation for shopping features
 #include "Stack.h"
 
 Stack::Stack() {
