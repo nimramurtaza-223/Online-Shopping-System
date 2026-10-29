@@ -1,3 +1,4 @@
+// Handles formatted console display of the product rotation
 #include "ProductPrintOps.h"
 #include <iostream>
 
