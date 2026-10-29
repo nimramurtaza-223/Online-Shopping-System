@@ -1,3 +1,4 @@
+// Handles product insertion operations in the circular list
 #include "ProductInsertOps.h"
 
 ProductNode* ProductInsertOps::CreateProduct(int id, string name, double price) {
