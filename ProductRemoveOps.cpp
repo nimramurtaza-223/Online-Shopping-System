@@ -1,3 +1,4 @@
+// Handles product removal operations from the circular list
 #include "ProductRemoveOps.h"
 
 ProductNode* ProductRemoveOps::Remove(CircularProductList& list) {
