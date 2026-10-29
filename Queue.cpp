@@ -1,3 +1,4 @@
+// Queue data structure implementation for order processing
 #include "Queue.h"
 
 Queue::Queue() {
